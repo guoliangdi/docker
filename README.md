@@ -5,4 +5,4 @@
 ![docker](img/docker-container.png)
 
 ### docker cli
-![docker](iimg/docker-cli.png)
+![docker](img/docker-cli.png)
